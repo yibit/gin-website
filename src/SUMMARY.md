@@ -1,0 +1,66 @@
+
+# Summary
+
+* [introduction](introduction/_index.md)
+
+* [quickstart](quickstart/_index.md)
+
+* [jsoniter](jsoniter/_index.md)
+
+* [features](features/_index.md)
+
+* [deployment](deployment/_index.md)
+
+* [examples](examples/_index.md)
+  * [ascii-json](examples/ascii-json.md)
+  * [bind-body-into-dirrerent-structs](examples/bind-body-into-dirrerent-structs.md)
+  * [bind-form-data-request-with-custom-struct](examples/bind-form-data-request-with-custom-struct.md)
+  * [bind-html-checkbox](examples/bind-html-checkbox.md)
+  * [bind-query-or-post](examples/bind-query-or-post.md)
+  * [bind-single-binary-with-template](examples/bind-single-binary-with-template.md)
+  * [bind-uri](examples/bind-uri.md)
+  * [binding-and-validation](examples/binding-and-validation.md)
+  * [controlling-log-output-coloring](examples/controlling-log-output-coloring.md)
+  * [cookie](examples/cookie.md)
+  * [custom-http-config](examples/custom-http-config.md)
+  * [custom-log-format](examples/custom-log-format.md)
+  * [custom-middleware](examples/custom-middleware.md)
+  * [custom-validators](examples/custom-validators.md)
+  * [define-format-for-the-log-of-routes](examples/define-format-for-the-log-of-routes.md)
+  * [goroutines-inside-a-middleware](examples/goroutines-inside-a-middleware.md)
+  * [graceful-restart-or-stop](examples/graceful-restart-or-stop.md)
+  * [grouping-routes](examples/grouping-routes.md)
+  * [html-rendering](examples/html-rendering.md)
+  * [http-method](examples/http-method.md)
+  * [http2-server-push](examples/http2-server-push.md)
+  * [jsonp](examples/jsonp.md)
+  * [map-as-querystring-or-postform](examples/map-as-querystring-or-postform.md)
+  * [multipart-urlencoded-binding](examples/multipart-urlencoded-binding.md)
+  * [multipart-urlencoded-form](examples/multipart-urlencoded-form.md)
+  * [multiple-file](examples/upload-file/multiple-file.md)
+  * [multiple-template](examples/multiple-template.md)
+  * [only-bind-query-string](examples/only-bind-query-string.md)
+  * [param-in-path](examples/param-in-path.md)
+  * [pure-json](examples/pure-json.md)
+  * [query-and-post-form](examples/query-and-post-form.md)
+  * [querystring-param](examples/querystring-param.md)
+  * [redirects](examples/redirects.md)
+  * [rendering](examples/rendering.md)
+  * [run-multiple-service](examples/run-multiple-service.md)
+  * [secure-json](examples/secure-json.md)
+  * [serving-data-from-reader](examples/serving-data-from-reader.md)
+  * [serving-static-files](examples/serving-static-files.md)
+  * [single-file](examples/upload-file/single-file.md)
+  * [support-lets-encrypt](examples/support-lets-encrypt.md)
+  * [using-basicauth-middleware](examples/using-basicauth-middleware.md)
+  * [using-middleware](examples/using-middleware.md)
+  * [without-middleware](examples/without-middleware.md)
+  * [write-log](examples/write-log.md)
+
+* [benchmarks](benchmarks/_index.md)
+
+* [testing](testing/_index.md)
+
+* [users](users/_index.md)
+
+* [faq](faq/_index.md)
