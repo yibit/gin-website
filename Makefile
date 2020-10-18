@@ -14,7 +14,7 @@ usage:
 	@echo "    status      run git status                           "
 	@echo "                                                         "
 
-build: install
+build:
 	cd src && gitbook build
 
 install:

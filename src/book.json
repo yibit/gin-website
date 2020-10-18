@@ -7,6 +7,7 @@
       "website": "./public-repertory/css/gitbook-configure.css"
     },
     "plugins": [
+      "intopic-toc",
       "theme-comscore",
       "prism",
       "-highlight",
@@ -20,7 +21,6 @@
       "github-buttons",
       "donate",
       "tbfed-pagefooter",
-      "anchor-navigation-ex",
       "image-captions"
     ],
     "pluginsConfig": {
@@ -61,9 +61,6 @@
         "copyright":"Copyleft&copy Yibit 2019",
         "modify_label": "Last-Modified：",
         "modify_format": "YYYY-MM-DD HH:mm:ss"
-      },
-      "anchor-navigation-ex": {
-        "showLevel": false
       },
       "image-captions": {
         "caption": "_PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
