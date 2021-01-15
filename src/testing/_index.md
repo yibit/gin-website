@@ -9,8 +9,9 @@ weight: 7
 The `net/http/httptest` package is preferable way for HTTP testing.
 
 ```go
-
 package main
+
+import "github.com/gin-gonic/gin"
 
 func setupRouter() *gin.Engine {
 	r := gin.Default()
@@ -50,6 +51,3 @@ func TestPingRoute(t *testing.T) {
 	assert.Equal(t, "pong", w.Body.String())
 }
 ```
-
-
-
