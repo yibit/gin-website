@@ -21,7 +21,7 @@ install:
 	cd src && yarn install && gitbook install
 
 serve:
-	cd src && gitbook serve --port 4379 --lrport 4479 --watch
+	cd src && gitbook serve --port 4179 --lrport 4279 --watch
 
 status:
 	git status .
